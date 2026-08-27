@@ -32,7 +32,7 @@ An enterprise-grade, multi-agent research assistant that combines in-memory vect
 
 ## Run the Deployed Application
 
-Live Application: 
+Live Application: https://enterprise-ai-research-agent.streamlit.app/
 
 ---
 
